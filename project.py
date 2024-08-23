@@ -292,4 +292,4 @@ async def on_message(message):
 
     await bot.process_commands(message)
 # DcBOT TOKEN:
-bot.run('')
+bot.run('your dc bot token')
